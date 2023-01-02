@@ -1,1 +1,1 @@
-# Read.me
+"Hi, I'm a software engineer with three months of experience under my belt. I specialize in building web applications using Angular 14, TypeScript, HTML, CSS, and JavaScript. I'm passionate about creating clean, intuitive, and user-friendly interfaces, and I love the challenges and problem-solving that come with software development. When I'm not coding, you can find me tinkering with new technologies or practicing my guitar skills. Feel free to check out my projects and leave me some feedback!"
